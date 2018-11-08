@@ -1,0 +1,25 @@
+Валидация верстки http://validator.w3.org/
+
+По PHP
+плейлист с уроками https://www.youtube.com/playlist?list=PLJQTRQ3SHnIYDJmwXSymgvy1n3RsPowdO&disable_polymer=true
+
+
+1) https://pastebin.com - демонстрация кода
+2) Развертывание сервера https://docs.google.com/document/d/1SyUY-Ff2AOOYY6T4fG6brZg5_jgIkP_3pSDuspyTfpQ/edit
+		https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-16-04-ru
+		https://losst.ru/ustanovka-lamp-ubuntu-16-04
+
+3) Курс по гиту https://githowto.com/ru
+
+4) Функции для работы с массивами http://php.net/manual/ru/ref.array.php
+5) Программа для работы с ssh https://www.putty.org/
+
+6) Подключение к бд http://php.net/manual/ru/function.mysqli-connect.php
+
+
+7) Конструктор баз данных https://www.dbdesigner.net/designer/schema/207422
+
+8) Нормализация баз данных https://habr.com/post/254773/
+9) Шпаргалка по функциям sql http://www.mysql.ru/docs/man/Functions.html
+10) Статья про индексы sql  https://ruhighload.com/%D0%98%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%8B+%D0%B2+mysql
+11) Работа с PDO http://phpfaq.ru/pdo
